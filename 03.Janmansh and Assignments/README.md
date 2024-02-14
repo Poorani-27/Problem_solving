@@ -20,17 +20,20 @@ You may print each character of "Yes" and "No" in uppercase or lowercase (for ex
 
 ### Sample Input
 
-'''
+```
 2
 7
 9
-'''
+```
+
+
 
 ### Sample output
-'''
+
+```
 yes
 no
-'''
+```
 
 
 ## Explanation
@@ -38,4 +41,7 @@ no
 - Test case 1: He can start at 7 pm and finish by 10 pm. Therefore, he can complete the assignments.
 - Test case 2: He cannot complete all the 3 assignments if he starts at 9 pm.
 
+
+![](Untitled.png)
+![](code.png)
 
