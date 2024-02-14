@@ -39,3 +39,7 @@ For each test case, output the total number of working hours in one week.
 - Test case 1: The total number of working hours in a week are: 10 (Monday) + 10 (Tuesday) + 10 (Wednesday) + 10 (Thursday) + 5 (Friday) = 45
 - Test case 2: The total number of working hours in a week are: 12 (Monday) + 12 (Tuesday) + 12 (Wednesday) + 12 (Thursday) + 2 (Friday) = 50
 - Test case 3: The total number of working hours in a week are: 8 (Monday) + 8 (Tuesday) + 8 (Wednesday) + 8 (Thursday) + 7 (Friday) = 39
+
+![](code.png)
+
+![](Untitled.png)
