@@ -35,7 +35,7 @@ This repository serves as a record of my progress in solving CodeChef problems .
 | Sasta Shark Tank           | 592        |
 | Good Program               | 593        |
 | Qualify the round          | 594        |
-| Elections in Chefland     | 604        |
+| Elections in Chefland      | 604        |
 | Minimum Cars required      | 608        |
 | Test Score                 | 610        |
 | Jenga Night                | 613        |
