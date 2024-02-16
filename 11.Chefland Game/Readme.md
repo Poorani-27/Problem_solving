@@ -39,3 +39,5 @@ OUT
 - Test case 2: All referees consider the ball to be IN. Thus, the ball is IN.
 - Test case 3: Referee 4 does not consider the ball to be IN. Thus, the ball is OUT.
 - Test case 4: No referee considers the ball to be IN. Thus, the ball is OUT.
+ ![](Untitled.png)
+ ![](code.png)
