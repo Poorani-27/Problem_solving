@@ -28,11 +28,22 @@ This program helps Alice in finding out the minimum number of games she needs to
 0
 1
 1
-2```
+2
+```
+
 ## Explanation
 - Test case 1: Alice's current rating `X` is already equal to her desired rating `Y`, so she doesn't need to win any game.
 - Test case 2: Alice's current rating is 10. After winning 1 game, her rating will become 18, which is greater than her desired rating of 17. Thus, she has to win at least 1 game.
 - Test case 3: Alice's current rating is 10. After winning 1 game, her rating will become 18, which is equal to her desired rating of 18. Thus, she has to win at least 1 game.
 - Test case 4: Alice's current rating is 10. After winning 1 game, her rating will become 18, which is less than her desired rating of 19. She will need to win one more game in order to make her rating 26, which is greater than 19. Thus, she has to win at least 2 games.
+
+
+
+
+
+
+
 ![](Untitled.png)
+
+
 ![](code.png)
