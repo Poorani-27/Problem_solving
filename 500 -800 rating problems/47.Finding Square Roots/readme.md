@@ -32,3 +32,6 @@ For each test case, output the square root of the input integer, rounded down to
 2
 100
 ```
+
+![](Untitled.png)
+![](code.png)
