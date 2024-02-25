@@ -95,3 +95,8 @@
 | Recent contest problems    | 793        |
 | Primality Test             | 794        |
 | The Cooler Dilemma 2       | 798        |
+| Chef Fantasy 11            | 731        |
+| Building Race              | 731        |
+
+
+
