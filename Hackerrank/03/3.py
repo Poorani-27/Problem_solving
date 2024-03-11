@@ -1,0 +1,5 @@
+N = int(input())
+A = list(map(int, input().split()))
+A = (A[::-1])
+ans = ' '.join(map(str,A)) 
+print(ans)
