@@ -92,4 +92,4 @@ Test case
 4
 4: The first two characters are 10 which is encoded as C. Similarly, the next two characters 01 are encoded as T. Thus, the encoded string is CT
 
-![](Untitled.png)
+![]()

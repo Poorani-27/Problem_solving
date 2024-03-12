@@ -10,7 +10,7 @@ while t > 0:
             encoded_str +="A"
         elif pair == "01":
             encoded_str +="T"
-        elif pair == "10":
+        elif pair == "10": 
             encoded_str +="C"
             
         elif pair == "11":
