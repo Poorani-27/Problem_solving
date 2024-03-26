@@ -11,7 +11,7 @@ Function description
 
 Complete the  function in the editor below.
 
-diagonalDifference takes the following parameter:
+diagonalDifference takes the following parameter
 
 int arr[n][m]: an array of integers
 Return
