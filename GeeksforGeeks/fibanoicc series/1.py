@@ -27,3 +27,4 @@ def fib(num):
     print(fib_series)
 
 fib(5)
+#Time Complexity: O(n)  //  Space Complexity: O(n)
